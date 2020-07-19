@@ -1,0 +1,2 @@
+rootProject.name='Pony'
+include ':app'
